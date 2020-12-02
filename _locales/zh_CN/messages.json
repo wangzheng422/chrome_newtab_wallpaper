@@ -15,11 +15,11 @@
     },
 
     "extension_name": {
-        "message": "Ataraxia 新标签页"
+        "message": "必应图片 新标签页"
     },
 
     "extension_desc": {
-        "message": "极简新标签页。每日美图壁纸自动更新。支持多个搜索引擎。"
+        "message": "极简新标签页。每日美图壁纸自动更新。"
     }, 
 
     "search_logo_hover_tip": {
