@@ -21,9 +21,6 @@
   	"*://*.bing.com/*",
     "storage"
   ],
-  "optional_permissions": [
-    "topSites"
-  ],
   "background": {
     "scripts": ["./scripts/background.js"]
   },
