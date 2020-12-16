@@ -125,12 +125,12 @@ function closeTopSites() {
 
 var defaultCustomBookmarks = [
 	{
-		name: "Ataraxia Settings",
+		name: "WallPaper Settings",
 		url: "./options.html"
 	},
 	{
-		name: "Ataraxia Website",
-		url: "https://codingcat.cn/ataraxia/"
+		name: "WallPaper Website",
+		url: "https://github.com/wangzheng422/chrome_newtab_wallpaper"
 	}
 ]
 

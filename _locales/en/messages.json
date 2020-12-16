@@ -2,7 +2,7 @@
 
     // new version info
     "you_have_updated_to_the_latest_version": {
-        "message": "Ataraxia has been updated !"
+        "message": "WallPaper has been updated !"
     },
 
     "update_content": {
@@ -50,7 +50,7 @@
     // option page
 
     "op_title": {
-        "message": "Ataraxia Settings"
+        "message": "WallPaper Settings"
     },
 
     "op_nav_search_engine": {
@@ -98,7 +98,7 @@
     },
 
     "op_about_prompt": {
-        "message": "Ataraxia - Refreshing and surprising new tab experience."
+        "message": "WallPaper - Refreshing and surprising new tab experience."
     },
 
     "op_about_current_ver": {

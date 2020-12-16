@@ -49,7 +49,7 @@
 
     // option page
     "op_title": {
-        "message": "Ataraxia 設置項"
+        "message": "WallPaper 設置項"
     },
 
     "op_nav_search_engine": {
@@ -61,7 +61,7 @@
     },
 
     "op_nav_about": {
-        "message": "關於Ataraxia"
+        "message": "關於 WallPaper"
     },
 
     "op_btn_save_this": {
@@ -97,7 +97,7 @@
     },
 
     "op_about_prompt": {
-        "message": "Ataraxia 帶給您清爽、驚喜的新標籤頁體驗。"
+        "message": "WallPaper 帶給您清爽、驚喜的新標籤頁體驗。"
     },
 
     "op_about_current_ver": {
