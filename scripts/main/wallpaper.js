@@ -64,7 +64,7 @@ function updateWallpaper(idx){
 			loadAndChangeOnlineWallpaper(url, obj.images[0].copyright);
 		}
 		else{
-			showDefaultWallpaper();
+			// showDefaultWallpaper();
 		}
 	}
 	xhr.open('get','https://www.bing.com/HPImageArchive.aspx?format=js&n=1&mkt=zh-CN&idx=' + idx);
