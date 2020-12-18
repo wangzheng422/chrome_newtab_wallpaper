@@ -3,7 +3,7 @@
 function showDefaultWallpaper() {
 	// set wallpaper
 	var body = document.getElementById('main-body');
-	body.style.backgroundImage = "url('./images/john-reign-abarintos-369080-unsplash.jpg')";
+	// body.style.backgroundImage = "url('./images/john-reign-abarintos-369080-unsplash.jpg')";
 	// set download link
 	setDownloadLink();
 }

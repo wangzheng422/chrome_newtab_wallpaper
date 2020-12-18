@@ -18,8 +18,7 @@
     "128": "./icon.png"
   },
   "permissions": [
-  	"*://*.bing.com/*",
-    "storage"
+  	"*://*.bing.com/*"
   ],
   "background": {
     "scripts": ["./scripts/background.js"]
