@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_extension_name__",
   "short_name": "BingTabImage",
-  "default_locale": "zh_CN",
+  "default_locale": "en",
   "author": "wangzheng422",
   "homepage_url"    : "https://github.com/wangzheng422/chrome_newtab_wallpaper",
   "description": "__MSG_extension_desc__",

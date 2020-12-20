@@ -24,6 +24,6 @@ function generateCheckUpdateLink() {
 
 // -------------- EXEC ---------------
 
-checkNewVersionPrompt();
+// checkNewVersionPrompt();
 
-generateCheckUpdateLink();
+// generateCheckUpdateLink();
