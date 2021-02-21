@@ -67,7 +67,8 @@ function updateWallpaper(idx){
 			// showDefaultWallpaper();
 		}
 	}
-	xhr.open('get','https://www.bing.com/HPImageArchive.aspx?format=js&n=1&mkt=zh-CN&idx=' + idx);
+	let userLang = window.navigator.language;
+	xhr.open('get',`https://www.bing.com/HPImageArchive.aspx?format=js&n=1&mkt=${userLang}&idx=${idx}`);
 	xhr.send(null);
 }
 
