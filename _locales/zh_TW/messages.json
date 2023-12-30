@@ -1,5 +1,5 @@
 {
-    // new version info
+
     "you_have_updated_to_the_latest_version": {
         "message": "新升級！"
     },
@@ -8,7 +8,7 @@
         "message": "右下角按鈕支持保存壁紙到本地"
     },
 
-    // main page
+
 
     "new_tab_title": {
         "message": "新標籤頁"
@@ -47,7 +47,7 @@
     },
 
 
-    // option page
+
     "op_title": {
         "message": "WallPaper 設置項"
     },
@@ -136,7 +136,7 @@
         "message": "授權失敗，功能無法開啟。請您重試，並允許授予權限。"
     },
 
-    // placeholder
+
     
     "placeholder": {
         "message": "placeholder"
