@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "__MSG_extension_name__",
   "short_name": "BingTabImage",
   "default_locale": "en",
@@ -21,7 +21,7 @@
   	"*://*.bing.com/*"
   ],
   "background": {
-    "scripts": ["./scripts/background.js"]
+    "service_worker": "./scripts/background.js"
   },
   "options_page": "options.html"
 }
